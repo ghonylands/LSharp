@@ -4,7 +4,7 @@ using LeagueSharp;
 using LeagueSharp.Common;
 using Color = System.Drawing.Color;
 
-class Program
+internal class TestScript
 {
     // declare shorthandle to access the player object
     // Properties http://msdn.microsoft.com/en-us/library/aa288470%28v=vs.71%29.aspx 
